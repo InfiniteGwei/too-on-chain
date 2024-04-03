@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Reka",
+    "description": "your beige friend building something sweet",
+    "link": "https://twitter.com/reka_eth",
+    "icon": "https://pbs.twimg.com/profile_images/1626246286386032641/UPzmuTLS_400x400.jpg",
+    "tag": "Founder"
+  },
+  {
+    "name": "LDF",
+    "description": "no one knows what it means but it's provocative",
+    "link": "https://twitter.com/ldf_gm",
+    "icon": "https://pbs.twimg.com/profile_images/1757780629461069824/fg8gvLQM_400x400.jpg",
+    "tag": "Founder"
+  },
+  {
+    "name": "Parker",
+    "description": "VC @fintech_io, DeFi Fund.",
+    "link": "https://twitter.com/parkerjayp",
+    "icon": "https://pbs.twimg.com/profile_images/1473344795485655047/NplBynN1_400x400.jpg",
+    "tag": "Founder"
+  },
+  {
+    "name": "Emily",
+    "description": "VP marketing @hypepartners: onchain marketing",
+    "link": "https://twitter.com/emilyxlai",
+    "icon": "https://pbs.twimg.com/profile_images/1579546621540327424/UOCvH89k_400x400.jpg",
+    "tag": "Founder"
+  }
+]
