@@ -44,7 +44,7 @@ theme = 'digitalgarden'
   url = '/tokens'
   weight = 5
 [[menu.main]]
-  name = 'Links'
+  name = 'Info'
   params.header = true
   weight = 6
 [[menu.main]]
