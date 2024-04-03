@@ -23,7 +23,7 @@
   
   {{ hugo.Generator }}
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | absURL}}" />
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 
   <!-- Katex support -->
   {{ if .Params.math }}

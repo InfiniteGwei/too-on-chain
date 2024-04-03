@@ -31,6 +31,7 @@ theme = 'digitalgarden'
   name = 'Content'
   url = '/content'  # Added URL here as an example
   weight = 2
+  params.header = true
 [[menu.main]]
   name = 'Airdrops'
   url = '/airdrops'
@@ -47,14 +48,15 @@ theme = 'digitalgarden'
   name = 'Info'
   url = '/info'  # Added URL here as an example
   weight = 6
+  params.header = true
 [[menu.main]]
   name = 'Members'
   url = '/members'
   weight = 7
-#[[menu.main]]
-#  name = 'Contribute'
-#  url = '/contribute'
-#  weight = 8
+[[menu.main]]
+  name = 'Contribute'
+  url = '/contribute'
+  weight = 8
 
 # [[menu.main]]
 #   name = 'Polywork'
