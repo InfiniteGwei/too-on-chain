@@ -29,7 +29,7 @@ theme = 'digitalgarden'
   weight = 1
 [[menu.main]]
   name = 'Content'
-  params.header = true
+  url = '/content'  # Added URL here as an example
   weight = 2
 [[menu.main]]
   name = 'Airdrops'
@@ -39,22 +39,22 @@ theme = 'digitalgarden'
   name = 'Deep Dives'
   url = '/deep-dives'
   weight = 4
-  [[menu.main]]
+[[menu.main]]
   name = 'Tokens'
   url = '/tokens'
   weight = 5
 [[menu.main]]
   name = 'Info'
-  params.header = true
+  url = '/info'  # Added URL here as an example
   weight = 6
 [[menu.main]]
   name = 'Members'
   url = '/members'
   weight = 7
-[[menu.main]]
-  name = 'Contribute'
-  url = '/contribute'
-  weight = 8
+#[[menu.main]]
+#  name = 'Contribute'
+#  url = '/contribute'
+#  weight = 8
 
 # [[menu.main]]
 #   name = 'Polywork'
