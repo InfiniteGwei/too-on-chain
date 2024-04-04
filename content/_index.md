@@ -10,4 +10,7 @@ We are on a quest to be extremely on-chain this cycle and spread actionable alph
 
 Expect step-by-step guides on airdrop farming, LP'ing, trading and more.
 
-Feel like you can contribute? Get started [here](/contribute)!
+Feel like you can contribute? Get started [here](https://infinitegwei.github.io/too-on-chain/contribute)!
+
+
+*Disclaimer: this is not financial advice. this core is all for fun and learning, holding each others’ hands, making swaps on rare chains, and claiming our bags (so we can buy cuter bags). we operate as a friend group and private chat.*

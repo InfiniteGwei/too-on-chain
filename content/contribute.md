@@ -13,7 +13,7 @@ The most straightforward way to contribute is by helping us create these guides!
 
 At any given point in time, there are several WIP posts as well as ideas/ecosystem explorations that should be in here.
 
-You can take a look at the [backlog](/backlog) or reach out to our [members](/members) and offer help with their WIP posts.
+You can take a look at the [backlog](https://infinitegwei.github.io/too-on-chain/backlog) or reach out to our [members](https://infinitegwei.github.io/too-on-chain/members) and offer help with their WIP posts.
 
 ### 2. Creating Hype
 
@@ -29,4 +29,4 @@ This is catch-all category for everything that isn't content creation or creatin
 
 This means tasks like managing/updating this website, making sure contributors have a smooth experience and holding spaces for conversations, come under this category.
 
-There are no specific guidelines or rules here, so if you feel you can make a meta contribution, [do tell one of us](/members)!
+There are no specific guidelines or rules here, so if you feel you can make a meta contribution, [do tell one of us](https://infinitegwei.github.io/too-on-chain/members)!
